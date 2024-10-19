@@ -1,7 +1,6 @@
-# qBitTorrent-Dark-Icons
-Greyscale icons for qBitTorrent's dark mode
+# Greyscale icons for qBitTorrent's Dark Mode (v5.0)
 
-Nobody likes these hideous Fisher-Price icons.  
+Nobody likes these hideous Fisher-Price icons:  
 ![image](https://github.com/user-attachments/assets/a916decd-deb3-4020-96ec-ba66181e43f3)
 
 These are greyscale ones:  
