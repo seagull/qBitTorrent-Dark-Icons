@@ -14,6 +14,6 @@ From the menu, click 'Customise UI theme' and go to the Icons tab. Laboriously r
 - That _sucks_, why is there no way to apply these programmatically
   - I don't know, I'm just glad there's the ability to do it at all
 - Applying the icons doesn't seem to do anything
-  - [You need to restart qBitTorrent first]([url](https://github.com/qbittorrent/qBittorrent/issues/21641))
+  - [You need to restart it first](https://github.com/qbittorrent/qBittorrent/issues/21641)
 - The subtle differences in greys are ambiguous compared to the more obvious reds and blues of the original icon set
   - Aren't they just
